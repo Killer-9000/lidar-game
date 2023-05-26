@@ -1,0 +1,3 @@
+[submodule "vendor/DiligentCore"]
+	path = vendor/DiligentCore
+	url = https://github.com/Killer-9000/DiligentCore.git

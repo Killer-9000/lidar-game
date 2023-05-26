@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "lidar",
+  "supports": "(windows | linux) & x64 & static",
+  "dependencies": [
+    "assimp",
+    "entt",
+    "fmt",
+    "glm",
+    "sdl2",
+    "robin-map"
+  ]
+}
